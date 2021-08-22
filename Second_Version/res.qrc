@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/ZombieWalk1.gif</file>
+        <file>images/ZombieWalk2.gif</file>
+        <file>images/Peashooter.gif</file>
+        <file>images/Peashooter.png</file>
+        <file>images/Pea.png</file>
+        <file>images/PeaSnow.png</file>
+        <file>images/Background.jpg</file>
+        <file>images/Background0.jpg</file>
+        <file>images/Zombie_Body.gif</file>
+        <file>images/Zombie_Head.gif</file>
+        <file>images/Zombie_new.gif</file>
+        <file>images/Zombie_Hurt.gif</file>
+        <file>images/Logo.jpg</file>
+        <file>images/Logo.png</file>
+        <file>images/Grazy Dave.wav</file>
+        <file>images/Whacker.png</file>
+    </qresource>
+</RCC>
