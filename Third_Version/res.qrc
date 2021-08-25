@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/ZombieWalk1.gif</file>
+        <file>images/ZombieWalk2.gif</file>
+        <file>images/Peashooter.gif</file>
+        <file>images/Pea.png</file>
+        <file>images/PeaSnow.png</file>
+        <file>images/Background.jpg</file>
+        <file>images/Background0.jpg</file>
+        <file>images/Zombie_Body.gif</file>
+        <file>images/Zombie_Head.gif</file>
+        <file>images/Zombie_new.gif</file>
+        <file>images/Zombie_Hurt.gif</file>
+        <file>images/Logo.jpg</file>
+        <file>images/Logo.png</file>
+        <file>images/Grazy Dave.wav</file>
+        <file>images/Whacker.png</file>
+        <file>images/Plant_Chomper.gif</file>
+        <file>images/Plant_Chomper_Eat.gif</file>
+        <file>images/Plant_Chomper_Hurt.gif</file>
+        <file>images/shield.gif</file>
+        <file>images/shield0.gif</file>
+        <file>images/shield1.gif</file>
+        <file>images/Box_CherryBomb.png</file>
+        <file>images/Box_Chomper.png</file>
+        <file>images/Box_Peashooter.png</file>
+        <file>images/Box_PotatoMine.png</file>
+        <file>images/Box_SunFlower.png</file>
+        <file>images/Box.png</file>
+        <file>images/Plant_GroundAttack.gif</file>
+        <file>images/Box_GroundAttack.png</file>
+        <file>images/Box_Shield.png</file>
+        <file>images/Box_Ground Attack.png</file>
+        <file>images/Box_SnowPea.png</file>
+        <file>images/BBB.png</file>
+        <file>images/Energy.gif</file>
+        <file>images/SnowShooter.gif</file>
+        <file>images/Plant_CherryBomb.png</file>
+        <file>images/Plant_Peashooter.png</file>
+        <file>images/Plant_Shield.png</file>
+        <file>images/Plant_SnowPea.png</file>
+        <file>images/Plant_SunFlower.png</file>
+        <file>images/Plant_GroundAttack.png</file>
+        <file>images/Plant_Chomper.png</file>
+    </qresource>
+</RCC>
